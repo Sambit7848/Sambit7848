@@ -6,8 +6,8 @@
 </p>
 
 - 📊 I am a **Data Analyst**, working with data to uncover insights and drive decisions.
-- 🔭 Currently improving my skills in **Python, SQL, Power BI, Tableau, and Generative AI**.
-- 🌱 Exploring **Generative AI** for data analytics and automation.
+- 🔭 skills in **Python, SQL, Power BI, Tableau, and Generative AI**.
+- 🌱 Worked with **Generative AI** for data analytics and automation.
 - 👯 Open to collaborating on **Data Analytics, Business Intelligence, and Visualization projects**.
 - 📫 Reach me at **sahusambitkumar08@gmail.com**
 - 💼 Check out my projects: **https://github.com/Sambit7848**
@@ -61,14 +61,14 @@
 
 # 🚀 Featured Projects
 
-### 📈 Vrinda Store Sales Analysis (Excel)
-Interactive Excel dashboard analyzing sales performance using Pivot Tables, Charts, Slicers, and KPIs.
+### 🍷 Red Wine Quality Analysis (Python)
+Analyzed the Red Wine Quality dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn to uncover relationships between physicochemical properties and wine quality through data cleaning, exploratory data analysis (EDA), and insightful visualizations.
 
 ### 📊 Retail Sales Analytics Dashboard (Power BI)
-Built an interactive Power BI dashboard to analyze sales trends, customer behavior, and business KPIs.
+Developed an interactive Power BI dashboard to analyze sales performance, customer behavior, product categories, and business KPIs using dynamic filters, DAX measures, and interactive visualizations for data-driven decision-making.
 
-### 🏏 Asia Cup 2023 Cricket Analytics (Tableau)
-Designed an interactive Tableau dashboard visualizing team and player performance statistics.
+### 📈 Vrinda Store Sales Analysis (Excel)
+Created an interactive Excel dashboard using Pivot Tables, Pivot Charts, Slicers, and KPIs to analyze sales trends, customer demographics, order status, and regional performance for better business insights.
 
 ---
 
