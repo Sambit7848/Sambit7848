@@ -59,19 +59,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🍷 Red Wine Quality Analysis (Python)
-Analyzed the Red Wine Quality dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn to uncover relationships between physicochemical properties and wine quality through data cleaning, exploratory data analysis (EDA), and insightful visualizations.
-
-### 📊 Retail Sales Analytics Dashboard (Power BI)
-Developed an interactive Power BI dashboard to analyze sales performance, customer behavior, product categories, and business KPIs using dynamic filters, DAX measures, and interactive visualizations for data-driven decision-making.
-
-### 📈 Vrinda Store Sales Analysis (Excel)
-Created an interactive Excel dashboard using Pivot Tables, Pivot Charts, Slicers, and KPIs to analyze sales trends, customer demographics, order status, and regional performance for better business insights.
-
----
-
 <p align="center">
 <i>⭐ Thanks for visiting my profile! Let's connect and build something amazing together.</i>
 </p>
