@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/data-analysis-banner.png" alt="Data Analysis Banner" width="100%" />
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Sambit Kumar Sahu</h1>
 <h2 align="center">A passionate Data Analyst, turning data into decisions</h3>
 
