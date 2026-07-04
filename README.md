@@ -35,7 +35,7 @@
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy" />
   &nbsp;
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48" alt="Excel"/>
   &nbsp;
