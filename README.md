@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Data Analyst, turning data into decisions</h3>
 
 
+
+
+
 - 📊 I am a **Data Analyst**, working with data to uncover insights and drive decisions.
 - 🔭 skills in **Python, SQL, Power BI, Tableau, and Generative AI**.
 - 🌱 Worked with **Generative AI** for data analytics and automation.
