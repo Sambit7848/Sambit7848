@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sambit Kumar Sahu</h1>
 <h3 align="center">A passionate Data Analyst, turning data into decisions</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sambit7848&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 - 📊 I am a **Data Analyst**, working with data to uncover insights and drive decisions.
 - 🔭 skills in **Python, SQL, Power BI, Tableau, and Generative AI**.
