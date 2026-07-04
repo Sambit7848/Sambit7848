@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="assets/<img width="1660" height="948" alt="ChatGPT Image Jul 4, 2026, 05_29_56 PM" src="https://github.com/user-attachments/assets/ccd60bbc-ca7a-47ef-8994-b6e4f7608b32" />
-" alt="Data Analysis Banner" width="100%">
-</p>
-
-
-
----
-
-
 <h1 align="center">Hi 👋, I'm Sambit Kumar Sahu</h1>
 <h2 align="center">A passionate Data Analyst, turning data into decisions</h3>
 
