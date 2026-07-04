@@ -2,49 +2,72 @@
 <h3 align="center">A passionate Data Analyst, turning data into decisions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sambit7848&label=Profile%20views&color=0e75b6&style=flat" alt="Sambit7848" />
-</p>
-
-- 📊 I am a **Data Analyst**, working with data to uncover insights and drive decisions
-- 🔭 skills in **Python, SQL, Power BI, Tableau and Generative AI**
-- 🌱 explored how **Generative AI** can be applied to data analytics workflows
-- 👯 I'm open to collaborating on **data analytics & visualization projects**
-- 📫 How to reach me: **sahusambitkumar08@gmail.com**
-- 💼 All of my projects are available at [github.com/Sambit7848](https://github.com/Sambit7848)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sambit-kumar-sahu-53b96833a/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin.svg" width="32" height="32" />
-</a>
-<a href="mailto:sahusambitkumar08@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail.svg" width="32" height="32" />
-</a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sambit7848&show_icons=true&theme=radical&count_private=true" alt="Sambit7848" width="48%" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sambit7848&theme=radical" alt="Sambit7848" width="48%" />
-</p>
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambit7848&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sambit7848" width="45%" />
+  <img src="https://komarev.com/ghpvc/?username=Sambit7848&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
+## 👨‍💻 About Me
 
-<p align="center"><i>Thanks for visiting my profile! Feel free to connect and collaborate 🚀</i></p>
+- 📊 I am a **Data Analyst**, working with data to uncover insights and drive decisions.
+- 🐍 Skilled in **Python, SQL, Power BI, Tableau, Excel, and Generative AI**.
+- 🌱 Exploring **Generative AI** applications in data analytics.
+- 👯 Open to collaborating on **Data Analytics & Visualization Projects**.
+- 📫 **Email:** **sahusambitkumar08@gmail.com**
+- 💼 **Portfolio:** https://github.com/Sambit7848
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sambit-kumar-sahu-53b96833a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sahusambitkumar08@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="45" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,git,vscode" />
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48" alt="Excel"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="48" alt="Power BI"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/48/tableau-software.png" height="48" alt="Tableau"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sambit7848&show_icons=true&theme=radical&hide_border=true&count_private=true"
+    width="49%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Sambit7848&theme=radical&hide_border=true"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambit7848&layout=compact&theme=radical&hide_border=true"
+    width="42%"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Thanks for visiting my profile! Feel free to connect and collaborate. 🚀</i>
+</p>
