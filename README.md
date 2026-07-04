@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sambit Kumar Sahu</h1>
-<h3 align="center">A passionate Data Analyst, turning data into decisions</h3>
-
-
-
+<h2 align="center">A passionate Data Analyst, turning data into decisions</h3>
 
 
 - 📊 I am a **Data Analyst**, working with data to uncover insights and drive decisions.
