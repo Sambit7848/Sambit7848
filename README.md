@@ -11,7 +11,7 @@
 
 - 📊 I am a **Data Analyst**, working with data to uncover insights and drive decisions.
 - 🐍 Skilled in **Python, SQL, Power BI, Tableau, Excel, and Generative AI**.
-- 🌱 Exploring **Generative AI** applications in data analytics.
+- 🌱 Explored **Generative AI** applications in data analytics as well.
 - 👯 Open to collaborating on **Data Analytics & Visualization Projects**.
 - 📫 **Email:** **sahusambitkumar08@gmail.com**
 - 💼 **Portfolio:** https://github.com/Sambit7848
